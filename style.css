@@ -34,9 +34,8 @@ body {
  }
   
   .clock {
-      margin-top: -348px;
-      transform: rotate(0.5deg);
-  }
+      margin-top: -100px;
+ }
 
 .clock h2{   position: relative;
    display: block;
